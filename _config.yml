@@ -1,10 +1,10 @@
 title: Mohammad Farhaan # your name (or website title) here
 logo: "/images/logo.png.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br>Hi I am Mohammad Farhaan, a aspiring AI/ML engineer. Currently  PGP- Data science student at Great learning,Gurgaon. I have graduated with Btech(I.T) in 2023. I have previously interned  as Data Science intern at Hindustan Times Media Labs and as Business Analyst Intern at Amaan Marketing Co. <br>
-  Second description 
-  <br>My toolkit includes Python, SQL, and MongoDB, also experienced utilizing tools like BeautifulSoup, Pandas,Numpy and Scrapy, Selenium for data extraction and analysis. For Data engineering I am versed with Pyspark, Snowflake and Airflow and AWS. Used Git ,Docker, Githubs, Aws S3 for MLops<br>
+  Hi I am Mohammad Farhaan, a aspiring AI/ML engineer. Currently  PGP- Data science student at Great learning,Gurgaon. I have graduated with Btech(I.T) in 2023. I have previously interned  as Data Science intern at Hindustan Times Media Labs and as Business Analyst Intern at Amaan Marketing Co. 
+  <br> <br>
+  My toolkit includes Python, SQL, and MongoDB, also experienced utilizing tools like BeautifulSoup, Pandas,Numpy and Scrapy, Selenium for data extraction and analysis. For Data engineering I am versed with Pyspark, Snowflake and Airflow and AWS. Used Git ,Docker, Githubs, Aws S3 for MLops 
+  <br><br>
   <a href="https://www.linkedin.com/in/mohammad-farhaan-1335171a9/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
